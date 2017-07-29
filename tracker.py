@@ -12,7 +12,7 @@ video_episode = ""
 media_type = ""
 video_year = ""
 
-path = 'C:/Users/Masemune/Dropbox/TvTrackerSite/DBBBBBIEEETESTIE.sqlite3'
+path = 'ENTER YOUR PATH TO DB FILE'
 conn = sqlite3.connect(path)
 c = conn.cursor()
 
