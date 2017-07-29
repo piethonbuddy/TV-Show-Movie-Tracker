@@ -1,3 +1,7 @@
 # TV-Show-Movie-Tracker
 
-Try to merge this sentence to read me
+A simple python project made to keep track of TV shows & Movies that you are watching.
+
+I will be updating this read me
+
+
